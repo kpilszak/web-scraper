@@ -23,7 +23,7 @@ Crafted with passion and precision, this project leverages the following technol
 
 ## Usage
 
-Explore the web-scraping by operning this link in a new tab: [Web Scraper](https://kpilszak.github.io/web-scraper/)
+Explore the web-scraping by opening this link in a new tab: [Web Scraper](https://kpilszak.github.io/web-scraper/)
 
 ## Acknowledgments
 
